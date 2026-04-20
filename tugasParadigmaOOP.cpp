@@ -20,5 +20,15 @@ public :
 int main(){
     barang elektronik;
     barang nonElektronik;
-    
+
+    elektronik.nama = "handphone";
+    elektronik.jumlah = 5;
+    elektronik.kategori = "Elektronik";
+    elektronik.tanggalProduksi = "19-04-2026";
+
+    nonElektronik.nama = "kursi";
+    nonElektronik.jumlah = 7;
+    nonElektronik.kategori = "Non Elektronik";
+    nonElektronik.tanggalProduksi = "19-04-2026";
+
 }
