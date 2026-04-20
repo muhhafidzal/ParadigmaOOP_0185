@@ -15,3 +15,10 @@ public :
     cout << "Tanggal Produksi : " << tanggalProduksi << endl;
     }
 };//batas class
+
+
+int main(){
+    barang elektronik;
+    barang nonElektronik;
+    
+}
